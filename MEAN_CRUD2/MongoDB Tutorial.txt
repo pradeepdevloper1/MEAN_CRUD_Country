@@ -1,0 +1,18 @@
+MONGODB
+
+
+1. to check Mongo is installed or not 
+open cmd in bin folder
+mongod
+
+2. open mongo shell:
+>mongo
+3. create DB :
+>use mydb
+4.create collection:
+>db.mycollection.insert({"name":"pradeepkumar","age":"24"})
+5. show collection:
+>db.mycollection.find()
+
+ 
+ 
